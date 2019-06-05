@@ -14,4 +14,4 @@ cppreference.com
 
 mybase       mempad
 
-小众网  everything
+小众网  少数派  everything
