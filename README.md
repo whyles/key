@@ -12,6 +12,8 @@ c wiki iso/iec 9899  c history
 
 cppreference.com
 
-mybase       mempad
+mybase       mempad  edaily
 
 小众网  少数派  everything
+
+云笔记
