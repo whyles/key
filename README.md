@@ -12,7 +12,7 @@ c wiki iso/iec 9899  c history
 
 cppreference.com
 
-mybase       mempad  edaily
+mybase       mempad  ediary
 
 小众网  少数派  everything
 
